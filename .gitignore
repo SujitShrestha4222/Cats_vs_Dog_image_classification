@@ -1,12 +1,12 @@
-# Datasets
+# Datasets containing folders
 Train/
 Test/
 
-# Models
+# Models saved
 *.keras
-*.h5
 
-# Jupyter
+
+# Jupyter auto checkpoint
 .ipynb_checkpoints/
 
 # Python cache
