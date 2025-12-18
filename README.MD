@@ -1,0 +1,7 @@
+## Dataset
+Cats vs Dogs dataset  
+Download from:Dataset used - https://www.kaggle.com/datasets/salad...
+
+Place the dataset as:
+Train/
+Test/

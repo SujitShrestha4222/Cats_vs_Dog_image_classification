@@ -1,0 +1,13 @@
+# Datasets
+Train/
+Test/
+
+# Models
+*.keras
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
