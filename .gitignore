@@ -11,3 +11,6 @@ Test/
 
 # Python cache
 __pycache__/
+
+# Images for Prediction purpose i.e JPG files
+*.jpg
